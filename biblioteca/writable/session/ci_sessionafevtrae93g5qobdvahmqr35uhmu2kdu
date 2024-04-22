@@ -1,0 +1,4 @@
+__ci_last_regenerate|i:1707686540;_ci_previous_url|s:55:"http://192.168.50.163/biblioteca/public/index.php/crear";mensaje|s:194:"Información inválida, el libro debe contener más de 3 caracteres 
+            y el archivo debe ser una imágen, extensión (.png, .jpg, .jpeg o .webp).
+            
+ Y ambos son Obligatorios";__ci_vars|a:3:{s:7:"mensaje";s:3:"old";s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";}_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:2:{s:2:"id";s:1:"5";s:6:"nombre";s:7:"Caballo";}}_ci_validation_errors|a:1:{s:6:"imagen";s:36:"imagen is not a valid uploaded file.";}

@@ -1,0 +1,1153 @@
+CRITICAL - 2024-02-13 04:22:27 --> Error: Class "PHPMailer\PHPMailer\PHPMailer" not found
+in APPPATH\Controllers\EnviarCorreo.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\EnviarCorreo->enviar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EnviarCorreo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 04:26:26 --> Error: Class "PHPMailer\PHPMailer\PHPMailer" not found
+in APPPATH\Controllers\EnviarCorreo.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\EnviarCorreo->enviar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EnviarCorreo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 04:26:40 --> Error: Class "PHPMailer\PHPMailer\PHPMailer" not found
+in APPPATH\Controllers\EnviarCorreo.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\EnviarCorreo->enviar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EnviarCorreo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 04:28:01 --> Error: Class "PHPMailer\PHPMailer\PHPMailer" not found
+in APPPATH\Controllers\EnviarCorreo.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\EnviarCorreo->enviar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EnviarCorreo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 04:28:05 --> Error: Class "PHPMailer\PHPMailer\PHPMailer" not found
+in APPPATH\Controllers\EnviarCorreo.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\EnviarCorreo->enviar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EnviarCorreo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 04:30:20 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 36.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->descargar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 04:30:22 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 36.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->descargar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 04:33:54 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 36.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->descargar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 04:33:55 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 36.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->descargar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 04:34:01 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 36.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->descargar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 04:34:32 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 36.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->descargar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 04:35:33 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 36.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->descargar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 04:52:30 --> Error: Call to undefined function App\Controllers\ftp_get_contents()
+in APPPATH\Controllers\DescargarArchivo.php on line 31.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->descargar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 04:55:26 --> ErrorException: mime_content_type(): FTP server error 451:451 Transfer aborted. Broken pipe
+
+in APPPATH\Controllers\DescargarArchivo.php on line 19.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mime_content_type(): FTP server error 451:451 Transfer aborted. Broken pipe
+', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 19)
+ 2 APPPATH\Controllers\DescargarArchivo.php(19): mime_content_type('ftp://u954703204.cuentaParaProyectoVentaBoletos:BjfiKqxi1@191.101.79.91/Reporte.pdf')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->descargar()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 05:01:37 --> ErrorException: mime_content_type(): php_network_getaddresses: getaddrinfo for ftp failed: Host desconocido. 
+in APPPATH\Controllers\DescargarArchivo.php on line 19.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mime_content_type(): php_network_getaddresses: getaddrinfo for ftp failed: Host desconocido. ', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 19)
+ 2 APPPATH\Controllers\DescargarArchivo.php(19): mime_content_type('ftp://u954703204.cuentaParaProyectoVentaBoletos:BjfiKqxi1@ftp://191.101.79.91/Reporte.pdf')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->descargar()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 05:02:00 --> ErrorException: mime_content_type(): php_network_getaddresses: getaddrinfo for ftp failed: Host desconocido. 
+in APPPATH\Controllers\DescargarArchivo.php on line 19.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mime_content_type(): php_network_getaddresses: getaddrinfo for ftp failed: Host desconocido. ', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 19)
+ 2 APPPATH\Controllers\DescargarArchivo.php(19): mime_content_type('ftp://u954703204.cuentaParaProyectoVentaBoletos:BjfiKqxi1@ftp://cinetickett.com/Reporte.pdf')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->descargar()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 05:02:18 --> ErrorException: mime_content_type(): FTP server error 451:451 Transfer aborted. Broken pipe
+
+in APPPATH\Controllers\DescargarArchivo.php on line 19.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mime_content_type(): FTP server error 451:451 Transfer aborted. Broken pipe
+', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 19)
+ 2 APPPATH\Controllers\DescargarArchivo.php(19): mime_content_type('ftp://u954703204.cuentaParaProyectoVentaBoletos:BjfiKqxi1@cinetickett.com/Reporte.pdf')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->descargar()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 05:02:39 --> ErrorException: mime_content_type(): FTP server error 451:451 Transfer aborted. Broken pipe
+
+in APPPATH\Controllers\DescargarArchivo.php on line 19.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mime_content_type(): FTP server error 451:451 Transfer aborted. Broken pipe
+', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 19)
+ 2 APPPATH\Controllers\DescargarArchivo.php(19): mime_content_type('ftp://u954703204.cuentaParaProyectoVentaBoletos:BjfiKqxi1@191.101.79.91/Reporte.pdf')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->descargar()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 05:02:58 --> ErrorException: mime_content_type(): FTP server error 451:451 Transfer aborted. Broken pipe
+
+in APPPATH\Controllers\DescargarArchivo.php on line 19.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mime_content_type(): FTP server error 451:451 Transfer aborted. Broken pipe
+', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 19)
+ 2 APPPATH\Controllers\DescargarArchivo.php(19): mime_content_type('ftp://u954703204.cuentaParaProyectoVentaBoletos:BjfiKqxi1@191.101.79.91/Reporte.pdf')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->descargar()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 05:15:28 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 53.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->descargar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 05:15:31 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 53.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->descargar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 05:15:38 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 53.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->descargar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 05:15:43 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 53.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->descargar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 05:20:47 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 53.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->descargar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 05:20:50 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 53.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->descargar()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 05:48:17 --> ErrorException: ftp_login(): Login incorrect.
+in APPPATH\Controllers\DescargarArchivo.php on line 26.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_login(): Login incorrect.', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 26)
+ 2 APPPATH\Controllers\DescargarArchivo.php(26): ftp_login(Object(FTP\Connection), 'u954703204', 'tu_contraseña_ftp')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 05:48:20 --> ErrorException: ftp_login(): Login incorrect.
+in APPPATH\Controllers\DescargarArchivo.php on line 26.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_login(): Login incorrect.', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 26)
+ 2 APPPATH\Controllers\DescargarArchivo.php(26): ftp_login(Object(FTP\Connection), 'u954703204', 'tu_contraseña_ftp')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 05:48:50 --> ErrorException: ftp_get(): /Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 05:53:48 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 05:54:05 --> ErrorException: ftp_get(C:\laragon\www\biblioteca\writable\Reporte.pdf): Failed to open stream: Permission denied
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf): Failed to open stream: Permission denied', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 05:54:33 --> ErrorException: ftp_get(C:\laragon\www\biblioteca\writable\Reporte.pdf): Failed to open stream: Permission denied
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf): Failed to open stream: Permission denied', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 05:56:11 --> ErrorException: ftp_get(): Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:06:26 --> ErrorException: ftp_get(): Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:11:21 --> ErrorException: ftp_get(): Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:36:32 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:36:39 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:36:41 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:36:42 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:36:46 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:42:50 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:45:32 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:45:35 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:45:37 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:45:39 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:45:42 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:45:44 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:45:45 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:45:47 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:45:49 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:45:51 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:45:53 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:45:56 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:46:01 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:46:03 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:46:05 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:47:46 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:47:52 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:48:49 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:48:54 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:54:11 --> ErrorException: ftp_get(): /domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:54:28 --> ErrorException: ftp_get(): /domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 06:58:17 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:02:00 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 40.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:02:03 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 40.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:02:10 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 40.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:02:41 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 40.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:03:11 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:08:22 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:08:26 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:08:28 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:08:34 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:08:38 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:08:42 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:08:44 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:11:18 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:11:20 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:11:26 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:13:05 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:13:07 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:13:13 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:13:18 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:13:20 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:13:23 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:13:23 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:13:23 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:13:24 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:13:24 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:13:24 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:13:24 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:13:24 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:13:30 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:13:35 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:16:23 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:16:25 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:16:31 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:18:40 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:18:43 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:19:09 --> Error: Undefined constant "App\Controllers\STDOUT"
+in APPPATH\Controllers\DescargarArchivo.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:28:20 --> ErrorException: ftp_get(descargas/Reporte.pdf): Failed to open stream: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(descargas/Reporte.pdf): Failed to open stream: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'descargas/Reporte.pdf', 'domains/cinetickett.com/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:28:41 --> ErrorException: ftp_get(descargas/Reporte.pdf): Failed to open stream: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(descargas/Reporte.pdf): Failed to open stream: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'descargas/Reporte.pdf', 'domains/cinetickett.com/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:32:00 --> ErrorException: ftp_get(C:\Usersania\Downloads/Reporte.pdf): Failed to open stream: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(C:\\Usersania\\Downloads/Reporte.pdf): Failed to open stream: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:\\Usersania\\Downloads/Reporte.pdf', 'domains/cinetickett.com/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:32:24 --> ErrorException: ftp_get(): domains/cinetickett.com/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): domains/cinetickett.com/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:/Users/vania/Downloads/Reporte.pdf', 'domains/cinetickett.com/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:32:28 --> ErrorException: ftp_get(): domains/cinetickett.com/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): domains/cinetickett.com/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:/Users/vania/Downloads/Reporte.pdf', 'domains/cinetickett.com/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:33:06 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:/Users/vania/Downloads/Reporte.pdf', '/home/u954703204/domains/cinetickett.com/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:33:28 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:/Users/vania/Downloads/Reporte.pdf', '/home/u954703204/domains/cinetickett.com/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:33:31 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:/Users/vania/Downloads/Reporte.pdf', '/home/u954703204/domains/cinetickett.com/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:33:54 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:/Users/vania/Downloads/Reporte.pdf', '/home/u954703204/domains/cinetickett.com/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:34:10 --> ErrorException: ftp_get(): /u954703204/domains/cinetickett.com/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /u954703204/domains/cinetickett.com/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:/Users/vania/Downloads/Reporte.pdf', '/u954703204/domains/cinetickett.com/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:35:09 --> ErrorException: ftp_get(): /domains/cinetickett.com/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /domains/cinetickett.com/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:/Users/vania/Downloads/Reporte.pdf', '/domains/cinetickett.com/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:35:26 --> ErrorException: ftp_get(): /cinetickett.com/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /cinetickett.com/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:/Users/vania/Downloads/Reporte.pdf', '/cinetickett.com/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:41:43 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:/Users/vania/Downloads/Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:43:54 --> ErrorException: ftp_get(): /: Not a regular file
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /: Not a regular file', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:/Users/vania/Downloads/Reporte.pdf', '/', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:44:38 --> ErrorException: ftp_get(): /home/u954703204/: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:/Users/vania/Downloads/Reporte.pdf', '/home/u954703204/', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:44:41 --> ErrorException: ftp_get(): /home/u954703204/: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:/Users/vania/Downloads/Reporte.pdf', '/home/u954703204/', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:45:13 --> ErrorException: ftp_get(): /home/u954703204/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:/Users/vania/Downloads/Reporte.pdf', '/home/u954703204/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:45:15 --> ErrorException: ftp_get(): /home/u954703204/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:/Users/vania/Downloads/Reporte.pdf', '/home/u954703204/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:51:16 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:/Users/vania/Downloads/Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:51:35 --> ErrorException: ftp_get(C:/Users/vania/Downloads/Reporte.pdf): Failed to open stream: Permission denied
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(C:/Users/vania/Downloads/Reporte.pdf): Failed to open stream: Permission denied', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:/Users/vania/Downloads/Reporte.pdf', '/domains/cinetickett.com/public_htm/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:51:40 --> ErrorException: ftp_get(C:/Users/vania/Downloads/Reporte.pdf): Failed to open stream: Permission denied
+in APPPATH\Controllers\DescargarArchivo.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(C:/Users/vania/Downloads/Reporte.pdf): Failed to open stream: Permission denied', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 32)
+ 2 APPPATH\Controllers\DescargarArchivo.php(32): ftp_get(Object(FTP\Connection), 'C:/Users/vania/Downloads/Reporte.pdf', '/domains/cinetickett.com/public_htm/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:53:33 --> ErrorException: ftp_get(): /domains/cinetickett.com/public_htm/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 31.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /domains/cinetickett.com/public_htm/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 31)
+ 2 APPPATH\Controllers\DescargarArchivo.php(31): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_htm/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:54:34 --> ErrorException: ftp_get(): /domains/cinetickett.com/public_htm/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 31.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /domains/cinetickett.com/public_htm/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 31)
+ 2 APPPATH\Controllers\DescargarArchivo.php(31): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_htm/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:55:24 --> ErrorException: ftp_get(): /domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 31.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 31)
+ 2 APPPATH\Controllers\DescargarArchivo.php(31): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:59:17 --> ErrorException: ftp_get(): /domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 31.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 31)
+ 2 APPPATH\Controllers\DescargarArchivo.php(31): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:59:29 --> ErrorException: ftp_get(): /domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 31.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 31)
+ 2 APPPATH\Controllers\DescargarArchivo.php(31): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:59:46 --> ErrorException: ftp_get(): /domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 31.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 31)
+ 2 APPPATH\Controllers\DescargarArchivo.php(31): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 07:59:52 --> ErrorException: ftp_get(): /domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 31.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 31)
+ 2 APPPATH\Controllers\DescargarArchivo.php(31): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 08:00:38 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 31.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 31)
+ 2 APPPATH\Controllers\DescargarArchivo.php(31): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 08:02:45 --> ErrorException: ftp_get(): Please login with USER and PASS
+in APPPATH\Controllers\DescargarArchivo.php on line 25.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): Please login with USER and PASS', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 25)
+ 2 APPPATH\Controllers\DescargarArchivo.php(25): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 08:05:07 --> ErrorException: ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 31.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 31)
+ 2 APPPATH\Controllers\DescargarArchivo.php(31): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/home/u954703204/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 08:05:45 --> ErrorException: ftp_get(): /domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 31.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 31)
+ 2 APPPATH\Controllers\DescargarArchivo.php(31): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 08:06:02 --> ErrorException: ftp_get(): /public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 31.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 31)
+ 2 APPPATH\Controllers\DescargarArchivo.php(31): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 08:07:58 --> ErrorException: ftp_get(): /domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 31.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 31)
+ 2 APPPATH\Controllers\DescargarArchivo.php(31): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 08:08:23 --> TypeError: set_error_handler(): Argument #1 ($callback) must be a valid callback or null, function "custom_error_handler" not found or invalid function name
+in APPPATH\Controllers\DescargarArchivo.php on line 25.
+ 1 APPPATH\Controllers\DescargarArchivo.php(25): set_error_handler('custom_error_handler')
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 08:08:38 --> TypeError: set_error_handler(): Argument #1 ($callback) must be a valid callback or null, function "custom_error_handler" not found or invalid function name
+in APPPATH\Controllers\DescargarArchivo.php on line 25.
+ 1 APPPATH\Controllers\DescargarArchivo.php(25): set_error_handler('custom_error_handler')
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 08:10:09 --> TypeError: set_error_handler(): Argument #1 ($callback) must be a valid callback or null, function "custom_error_handler" not found or invalid function name
+in APPPATH\Controllers\DescargarArchivo.php on line 25.
+ 1 APPPATH\Controllers\DescargarArchivo.php(25): set_error_handler('custom_error_handler')
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 08:11:30 --> ErrorException: ftp_get(): /domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory
+in APPPATH\Controllers\DescargarArchivo.php on line 41.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): /domains/cinetickett.com/public_html/Reporte.pdf: No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 41)
+ 2 APPPATH\Controllers\DescargarArchivo.php(41): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 APPPATH\Controllers\DescargarArchivo.php(17): App\Controllers\DescargarArchivo->descargarArchivoFTP('191.101.79.91', 'u954703204.cuentaParaProyectoVentaBoletos', 'BjfiKqxi1', '/domains/cinetickett.com/public_html/Reporte.pdf', 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 12:32:00 --> ErrorException: ftp_get(): Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+in APPPATH\Controllers\DescargarArchivo.php on line 41.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 41)
+ 2 APPPATH\Controllers\DescargarArchivo.php(41): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 APPPATH\Controllers\DescargarArchivo.php(17): App\Controllers\DescargarArchivo->descargarArchivoFTP('191.101.79.91', 'u954703204', 'BjfiKqxi1', '/domains/cinetickett.com/public_html/Reporte.pdf', 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 12:32:06 --> ErrorException: ftp_get(C:\laragon\www\biblioteca\writable\uploads/Reporte.pdf): Failed to open stream: Permission denied
+in APPPATH\Controllers\DescargarArchivo.php on line 41.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf): Failed to open stream: Permission denied', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 41)
+ 2 APPPATH\Controllers\DescargarArchivo.php(41): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 APPPATH\Controllers\DescargarArchivo.php(17): App\Controllers\DescargarArchivo->descargarArchivoFTP('191.101.79.91', 'u954703204', 'BjfiKqxi1', '/domains/cinetickett.com/public_html/Reporte.pdf', 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 12:32:08 --> ErrorException: ftp_get(C:\laragon\www\biblioteca\writable\uploads/Reporte.pdf): Failed to open stream: Permission denied
+in APPPATH\Controllers\DescargarArchivo.php on line 41.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf): Failed to open stream: Permission denied', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 41)
+ 2 APPPATH\Controllers\DescargarArchivo.php(41): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 APPPATH\Controllers\DescargarArchivo.php(17): App\Controllers\DescargarArchivo->descargarArchivoFTP('191.101.79.91', 'u954703204', 'BjfiKqxi1', '/domains/cinetickett.com/public_html/Reporte.pdf', 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 12:32:09 --> ErrorException: ftp_get(C:\laragon\www\biblioteca\writable\uploads/Reporte.pdf): Failed to open stream: Permission denied
+in APPPATH\Controllers\DescargarArchivo.php on line 41.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf): Failed to open stream: Permission denied', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 41)
+ 2 APPPATH\Controllers\DescargarArchivo.php(41): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 APPPATH\Controllers\DescargarArchivo.php(17): App\Controllers\DescargarArchivo->descargarArchivoFTP('191.101.79.91', 'u954703204', 'BjfiKqxi1', '/domains/cinetickett.com/public_html/Reporte.pdf', 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 12:32:11 --> ErrorException: ftp_get(C:\laragon\www\biblioteca\writable\uploads/Reporte.pdf): Failed to open stream: Permission denied
+in APPPATH\Controllers\DescargarArchivo.php on line 41.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf): Failed to open stream: Permission denied', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 41)
+ 2 APPPATH\Controllers\DescargarArchivo.php(41): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 APPPATH\Controllers\DescargarArchivo.php(17): App\Controllers\DescargarArchivo->descargarArchivoFTP('191.101.79.91', 'u954703204', 'BjfiKqxi1', '/domains/cinetickett.com/public_html/Reporte.pdf', 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 12:32:13 --> ErrorException: ftp_get(C:\laragon\www\biblioteca\writable\uploads/Reporte.pdf): Failed to open stream: Permission denied
+in APPPATH\Controllers\DescargarArchivo.php on line 41.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf): Failed to open stream: Permission denied', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 41)
+ 2 APPPATH\Controllers\DescargarArchivo.php(41): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 APPPATH\Controllers\DescargarArchivo.php(17): App\Controllers\DescargarArchivo->descargarArchivoFTP('191.101.79.91', 'u954703204', 'BjfiKqxi1', '/domains/cinetickett.com/public_html/Reporte.pdf', 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 12:33:11 --> ErrorException: ftp_get(): Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+in APPPATH\Controllers\DescargarArchivo.php on line 41.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 41)
+ 2 APPPATH\Controllers\DescargarArchivo.php(41): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 APPPATH\Controllers\DescargarArchivo.php(17): App\Controllers\DescargarArchivo->descargarArchivoFTP('191.101.79.91', 'u954703204', 'BjfiKqxi1', '/domains/cinetickett.com/public_html/Reporte.pdf', 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 12:33:12 --> ErrorException: ftp_get(C:\laragon\www\biblioteca\writable\uploads/Reporte.pdf): Failed to open stream: Permission denied
+in APPPATH\Controllers\DescargarArchivo.php on line 41.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf): Failed to open stream: Permission denied', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 41)
+ 2 APPPATH\Controllers\DescargarArchivo.php(41): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 APPPATH\Controllers\DescargarArchivo.php(17): App\Controllers\DescargarArchivo->descargarArchivoFTP('191.101.79.91', 'u954703204', 'BjfiKqxi1', '/domains/cinetickett.com/public_html/Reporte.pdf', 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 12:33:13 --> ErrorException: ftp_get(C:\laragon\www\biblioteca\writable\uploads/Reporte.pdf): Failed to open stream: Permission denied
+in APPPATH\Controllers\DescargarArchivo.php on line 41.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf): Failed to open stream: Permission denied', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 41)
+ 2 APPPATH\Controllers\DescargarArchivo.php(41): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 APPPATH\Controllers\DescargarArchivo.php(17): App\Controllers\DescargarArchivo->descargarArchivoFTP('191.101.79.91', 'u954703204', 'BjfiKqxi1', '/domains/cinetickett.com/public_html/Reporte.pdf', 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 12:33:14 --> ErrorException: ftp_get(C:\laragon\www\biblioteca\writable\uploads/Reporte.pdf): Failed to open stream: Permission denied
+in APPPATH\Controllers\DescargarArchivo.php on line 41.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf): Failed to open stream: Permission denied', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 41)
+ 2 APPPATH\Controllers\DescargarArchivo.php(41): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 APPPATH\Controllers\DescargarArchivo.php(17): App\Controllers\DescargarArchivo->descargarArchivoFTP('191.101.79.91', 'u954703204', 'BjfiKqxi1', '/domains/cinetickett.com/public_html/Reporte.pdf', 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 12:39:10 --> ErrorException: ftp_get(C:\laragon\www\biblioteca\writable\uploads/Reporte.pdf): Failed to open stream: Permission denied
+in APPPATH\Controllers\DescargarArchivo.php on line 41.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf): Failed to open stream: Permission denied', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 41)
+ 2 APPPATH\Controllers\DescargarArchivo.php(41): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 APPPATH\Controllers\DescargarArchivo.php(17): App\Controllers\DescargarArchivo->descargarArchivoFTP('191.101.79.91', 'u954703204', 'BjfiKqxi1', '/domains/cinetickett.com/public_html/Reporte.pdf', 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 12:40:41 --> ErrorException: ftp_get(): Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+in APPPATH\Controllers\DescargarArchivo.php on line 41.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 41)
+ 2 APPPATH\Controllers\DescargarArchivo.php(41): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 APPPATH\Controllers\DescargarArchivo.php(17): App\Controllers\DescargarArchivo->descargarArchivoFTP('191.101.79.91', 'u954703204', 'BjfiKqxi1', '/domains/cinetickett.com/public_html/Reporte.pdf', 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 12:42:46 --> ErrorException: ftp_get(C:\laragon\www\biblioteca\writable\uploads/Reporte.pdf): Failed to open stream: Permission denied
+in APPPATH\Controllers\DescargarArchivo.php on line 41.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf): Failed to open stream: Permission denied', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 41)
+ 2 APPPATH\Controllers\DescargarArchivo.php(41): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 APPPATH\Controllers\DescargarArchivo.php(17): App\Controllers\DescargarArchivo->descargarArchivoFTP('191.101.79.91', 'u954703204', 'BjfiKqxi1', '/domains/cinetickett.com/public_html/Reporte.pdf', 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 12:44:00 --> ErrorException: ftp_get(): Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+in APPPATH\Controllers\DescargarArchivo.php on line 41.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 41)
+ 2 APPPATH\Controllers\DescargarArchivo.php(41): ftp_get(Object(FTP\Connection), 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 APPPATH\Controllers\DescargarArchivo.php(17): App\Controllers\DescargarArchivo->descargarArchivoFTP('191.101.79.91', 'u954703204', 'BjfiKqxi1', '/domains/cinetickett.com/public_html/Reporte.pdf', 'C:\\laragon\\www\\biblioteca\\writable\\uploads/Reporte.pdf')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 13:27:31 --> Error: Call to undefined function App\Controllers\ftp_get_contents()
+in APPPATH\Controllers\DescargarArchivo.php on line 34.
+ 1 APPPATH\Controllers\DescargarArchivo.php(16): App\Controllers\DescargarArchivo->visualizarArchivoFTP('191.101.79.91', 'u954703204', 'BjfiKqxi1', '/domains/cinetickett.com/public_html/Reporte.pdf')
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 16:17:45 --> ErrorException: ftp_get(): Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+in APPPATH\Controllers\DescargarArchivo.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 35)
+ 2 APPPATH\Controllers\DescargarArchivo.php(35): ftp_get(Object(FTP\Connection), 'php://output', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 APPPATH\Controllers\DescargarArchivo.php(16): App\Controllers\DescargarArchivo->visualizarArchivoFTP('191.101.79.91', 'u954703204', 'BjfiKqxi1', '/domains/cinetickett.com/public_html/Reporte.pdf')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 16:23:08 --> ErrorException: ftp_get(): Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+in APPPATH\Controllers\DescargarArchivo.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 35)
+ 2 APPPATH\Controllers\DescargarArchivo.php(35): ftp_get(Object(FTP\Connection), 'php://output', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 APPPATH\Controllers\DescargarArchivo.php(16): App\Controllers\DescargarArchivo->visualizarArchivoFTP('191.101.79.91', 'u954703204', 'BjfiKqxi1', '/domains/cinetickett.com/public_html/Reporte.pdf')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 16:23:13 --> ErrorException: ftp_get(): Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+in APPPATH\Controllers\DescargarArchivo.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 35)
+ 2 APPPATH\Controllers\DescargarArchivo.php(35): ftp_get(Object(FTP\Connection), 'php://output', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 APPPATH\Controllers\DescargarArchivo.php(16): App\Controllers\DescargarArchivo->visualizarArchivoFTP('191.101.79.91', 'u954703204', 'BjfiKqxi1', '/domains/cinetickett.com/public_html/Reporte.pdf')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-13 16:28:27 --> ErrorException: ftp_get(): Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder
+in APPPATH\Controllers\DescargarArchivo.php on line 40.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ftp_get(): Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\DescargarArchivo.php', 40)
+ 2 APPPATH\Controllers\DescargarArchivo.php(40): ftp_get(Object(FTP\Connection), 'C:\\Users\\vania\\AppData\\Local\\Temp/Reporte.pdf', '/domains/cinetickett.com/public_html/Reporte.pdf', 2)
+ 3 APPPATH\Controllers\DescargarArchivo.php(16): App\Controllers\DescargarArchivo->descargarArchivoFTP('191.101.79.91', 'u954703204', 'BjfiKqxi1', '/domains/cinetickett.com/public_html/Reporte.pdf')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\DescargarArchivo->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DescargarArchivo))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

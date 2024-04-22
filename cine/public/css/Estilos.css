@@ -1,0 +1,114 @@
+.background { 
+    background-image: url("../img/cn.avif");
+    width: 100%;
+    height: auto;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.background2 { 
+    background-image: url("../img/blanco.avif");
+    width: 100%;
+    height: auto;
+    background-attachment: fixed;
+    background-size: cover;
+}
+/* Fondo del home */
+.background3 { 
+    background-image: url("../img/cinema-2.jpg");
+    width: 100%;
+    height: auto;
+    background-attachment: fixed;
+    background-size: cover;
+}
+/* Estilos al titulo de la vista home */
+.titulo-bienvenida {
+    color: white;
+    font-family: "Bangers", system-ui;
+    font-size: 7rem; /* Ajusta el tamaño del texto según sea necesario */
+    animation: cambio-color 5s infinite, cambio-tamaño 5s infinite; /* Combina ambas animaciones */
+}
+.titulo-bienvenida span {
+    display: block;
+}
+
+/* Animación para cambiar el color en home */
+@keyframes cambio-color {
+    0% { color: rgb(116, 116, 116); } /* Color inicial */
+    50% { color: rgb(197, 197, 197); } /* Cambio de color */
+    100% { color: rgb(116, 116, 116); } /* Cambio de color */
+}
+
+/* Animación para cambiar el tamaño en home*/
+@keyframes cambio-tamaño {
+    0% { font-size: 5rem; } /* Tamaño inicial */
+    50% { font-size: 6rem; } /* Ajusta el tamaño deseado */
+    100% { font-size: 5rem; } /* Tamaño inicial */
+}
+  
+.img{
+   width:250px;
+   height:250px;
+   object-fit:cover;
+}
+.img2 {
+    width:100%;
+    height:500px;
+    object-fit: cover;
+}
+.card2 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0);
+    transition: 0.3s;
+    z-index: 1;
+}
+    .card2:hover {
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
+    }
+.card3 {
+    box-shadow: 0 4px 8px 0 rgba();
+    background-color: rgba(0, 0, 0, 0.6);
+    box-shadow: 4px 8px  rgba(255, 255, 255, 0.2);
+}
+    .card3:hover {
+        box-shadow: 4px 8px  rgba(255, 255, 255, 0.6);
+        background-color:rgb(0, 0, 0);
+        opacity:1;
+    }
+.card1 {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0);
+    transition: 0.3s;
+    background-color: #fce0f6;
+}
+
+    .card1:hover {
+        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
+    }
+.barra{
+    background-color:#e4c0f1;
+    z-index:-1;
+}
+.precio {
+    color: rgba(0,0,0,0,1);
+    text-decoration-color: rgba(0,0,0,1);
+    font-style: oblique;
+}
+.footer{
+    background-color:white;
+    width:100%;
+    height:auto;
+}
+.letra{
+    color: white;
+}
+.pagination a.page-link {
+    color: rgb(0, 0, 0);
+    font-size: 16px; 
+
+}
+.tarjeta {
+    box-shadow: 0 8px 10px 0 rgb(110, 107, 107);
+    transition: 0.3s;
+    z-index: 1;
+}
+    .tarjeta:hover {
+        box-shadow: 0 10px 12px 0 rgb(0, 0, 0);
+    }

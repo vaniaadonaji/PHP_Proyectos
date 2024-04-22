@@ -1,0 +1,39 @@
+CRITICAL - 2024-02-11 06:54:32 --> ErrorException: unlink(../public/uploads/imagen.jpg): No such file or directory
+in APPPATH\Controllers\Libros.php on line 39.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../public/uploads/imagen.jpg): No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\Libros.php', 39)
+ 2 APPPATH\Controllers\Libros.php(39): unlink('../public/uploads/imagen.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Libros->borrar('1')
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-11 17:54:19 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "libors/editar.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('libors/editar.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('libors/editar', [], true)
+ 3 APPPATH\Controllers\Libros.php(49): view('libors/editar')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Libros->editar('5')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-11 20:27:11 --> ErrorException: Undefined variable $datos
+in APPPATH\Controllers\Libros.php on line 40.
+ 1 APPPATH\Controllers\Libros.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\Libros.php', 40)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Libros->guardar()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-11 20:28:45 --> ErrorException: Undefined variable $datos
+in APPPATH\Controllers\Libros.php on line 42.
+ 1 APPPATH\Controllers\Libros.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $datos', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\Libros.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Libros->guardar()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-11 20:34:33 --> ErrorException: unlink(../public/upoads/1707679980_1f83779ada55ad3ed3f8.jpg): No such file or directory
+in APPPATH\Controllers\Libros.php on line 84.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../public/upoads/1707679980_1f83779ada55ad3ed3f8.jpg): No such file or directory', 'C:\\laragon\\www\\biblioteca\\app\\Controllers\\Libros.php', 84)
+ 2 APPPATH\Controllers\Libros.php(84): unlink('../public/upoads/1707679980_1f83779ada55ad3ed3f8.jpg')
+ 3 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Libros->actualizar()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Libros))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
